@@ -98,7 +98,7 @@ async def st_charge(event):
                     + f'**Country**==> {Country}\n'
                     + f'**Time-Stamp** ==> {datetime.now()}\n'
                     + f'**Time-Took** ==> {end-start}\n'
-                    + '**Userbot-By** ~ @Xbinner'
+                    + '**Userbot-By** ~ RPA GROUP'
                 )
             )
 
@@ -112,7 +112,7 @@ async def st_charge(event):
                     + f'**Country**==> {Country}\n'
                     + f'**Time-Stamp** ==> {datetime.now()}\n'
                     + f'**Time-Took** ==> {end-start}\n'
-                    + '**Userbot-By** ~ @Xbinner'
+                    + '**Userbot-By** ~ RPA GROUP'
                 )
             )
         else:
@@ -125,6 +125,6 @@ async def st_charge(event):
                     + f'**Country**==> {Country}\n'
                     + f'**Time-Stamp** ==> {datetime.now()}\n'
                     + f'**Time-Took** ==> {end-start}\n'
-                    + '**Userbot-By** ~ @Xbinner'
+                    + '**Userbot-By** ~ RPA GROUP'
                 )
             )
