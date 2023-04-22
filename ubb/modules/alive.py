@@ -11,7 +11,6 @@ async def amialive(event):
 **USERBOT is Working Fine!**
 **Telethon version:** `{version.__version__}`
 **Python version:** `{python_version()}`
-**Repo:** [GitHub](https://github.com/Xbinner18/ccchk-ub)
 **Master:** [{me.first_name}](tg://user?id={me.id})
 ''') 
     
